@@ -4,5 +4,6 @@ Primeiro trabalho
 Escreva neste arquivo os nomes de seus 3 autores/atrizes preferidos e efetue o commit.
 
 Dwayne johnson
-Wentworth miller
+Will Smith
 Angelina Jolie
+Michael fassbender
